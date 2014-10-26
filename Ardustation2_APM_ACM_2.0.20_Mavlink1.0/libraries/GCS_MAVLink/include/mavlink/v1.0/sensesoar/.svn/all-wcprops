@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar
+END
+testsuite.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/testsuite.h
+END
+mavlink_msg_obs_air_temp.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_air_temp.h
+END
+mavlink_msg_obs_wind.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_wind.h
+END
+mavlink_msg_pm_elec.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_pm_elec.h
+END
+mavlink_msg_obs_position.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_position.h
+END
+mavlink_msg_sys_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_sys_stat.h
+END
+mavlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink.h
+END
+sensesoar.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/sensesoar.h
+END
+mavlink_msg_cmd_airspeed_chng.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_cmd_airspeed_chng.h
+END
+mavlink_msg_obs_qff.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_qff.h
+END
+mavlink_msg_obs_bias.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_bias.h
+END
+mavlink_msg_obs_attitude.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_attitude.h
+END
+mavlink_msg_filt_rot_vel.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_filt_rot_vel.h
+END
+mavlink_msg_obs_air_velocity.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_air_velocity.h
+END
+mavlink_msg_cmd_airspeed_ack.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_cmd_airspeed_ack.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/version.h
+END
+mavlink_msg_obs_velocity.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_obs_velocity.h
+END
+mavlink_msg_llc_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/include/mavlink/v1.0/sensesoar/mavlink_msg_llc_out.h
+END

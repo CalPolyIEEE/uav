@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Waypoints
+END
+Waypoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Waypoints/Waypoints.h
+END
+Waypoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Waypoints/Waypoints.cpp
+END

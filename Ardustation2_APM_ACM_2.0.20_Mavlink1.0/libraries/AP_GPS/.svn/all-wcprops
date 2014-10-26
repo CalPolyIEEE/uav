@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS
+END
+AP_GPS_Shim.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_Shim.h
+END
+GPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/GPS.h
+END
+AP_GPS_MTK16.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_MTK16.h
+END
+AP_GPS_MTK_Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_MTK_Common.h
+END
+AP_GPS_Auto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_Auto.cpp
+END
+AP_GPS_SIRF.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_SIRF.h
+END
+AP_GPS_406.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_406.cpp
+END
+AP_GPS_HIL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_HIL.cpp
+END
+AP_GPS_Auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_Auto.h
+END
+AP_GPS_406.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_406.h
+END
+AP_GPS_NMEA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_NMEA.cpp
+END
+AP_GPS_HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_HIL.h
+END
+AP_GPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS.h
+END
+AP_GPS_NMEA.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_NMEA.h
+END
+AP_GPS_UBLOX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_UBLOX.cpp
+END
+AP_GPS_IMU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_IMU.cpp
+END
+AP_GPS_MTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_MTK.cpp
+END
+AP_GPS_UBLOX.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_UBLOX.h
+END
+AP_GPS_IMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_IMU.h
+END
+GPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/GPS.cpp
+END
+AP_GPS_MTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_MTK.h
+END
+AP_GPS_MTK16.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_MTK16.cpp
+END
+AP_GPS_SIRF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_SIRF.cpp
+END
+AP_GPS_None.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_GPS/AP_GPS_None.h
+END

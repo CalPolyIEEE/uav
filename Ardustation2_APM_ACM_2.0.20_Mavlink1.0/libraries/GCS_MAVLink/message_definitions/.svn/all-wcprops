@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions
+END
+minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/minimal.xml
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/common.xml
+END
+pixhawk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/pixhawk.xml
+END
+ardupilotmega.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/ardupilotmega.xml
+END
+slugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/slugs.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/test.xml
+END
+ualberta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/GCS_MAVLink/message_definitions/ualberta.xml
+END

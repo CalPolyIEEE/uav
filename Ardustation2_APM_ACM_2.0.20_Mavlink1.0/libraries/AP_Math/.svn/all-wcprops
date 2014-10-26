@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math
+END
+AP_Math.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/AP_Math.h
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/keywords.txt
+END
+quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/quaternion.cpp
+END
+vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/vector3.cpp
+END
+matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/matrix3.cpp
+END
+polygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/polygon.cpp
+END
+rotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/rotations.h
+END
+AP_Math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/AP_Math.cpp
+END
+vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/vector2.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/quaternion.h
+END
+vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/vector3.h
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/matrix3.h
+END
+polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Math/polygon.h
+END

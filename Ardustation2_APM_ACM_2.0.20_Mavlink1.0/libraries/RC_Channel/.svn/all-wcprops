@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/RC_Channel
+END
+RC_Channel_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/RC_Channel/RC_Channel_aux.h
+END
+RC_Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/RC_Channel/RC_Channel.h
+END
+RC_Channel_aux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/RC_Channel/RC_Channel_aux.cpp
+END
+RC_Channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/RC_Channel/RC_Channel.cpp
+END

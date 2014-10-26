@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass
+END
+AP_Compass_HMC5843.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/AP_Compass_HMC5843.cpp
+END
+AP_Compass_HIL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/AP_Compass_HIL.cpp
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/keywords.txt
+END
+AP_Compass_HMC5843.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/AP_Compass_HMC5843.h
+END
+Compass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/Compass.cpp
+END
+AP_Compass_HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/AP_Compass_HIL.h
+END
+AP_Compass.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/AP_Compass.h
+END
+Compass.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/AP_Compass/Compass.h
+END

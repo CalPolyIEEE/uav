@@ -1,0 +1,166 @@
+10
+
+dir
+21
+https://rmax.two@subversion.assembla.com/svn/rmax_object_avoidance/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries
+https://rmax.two@subversion.assembla.com/svn/rmax_object_avoidance
+
+
+
+2014-05-21T01:06:41.725101Z
+2
+rmax.one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9dd3fba1-1725-498b-8e46-09abedb4a8f5
+
+AP_Navigation
+dir
+
+AP_InertialSensor
+dir
+
+AP_Compass
+dir
+
+Filter
+dir
+
+DataFlash
+dir
+
+Trig_LUT
+dir
+
+Waypoints
+dir
+
+FastSerial
+dir
+
+GCS_MAVLink
+dir
+
+Arduino_Mega_ISR_Registry
+dir
+
+TimedAction
+dir
+
+APM_RC
+dir
+
+AP_Motors
+dir
+
+AP_RangeFinder
+dir
+
+doc
+dir
+
+APM_PI
+dir
+
+AP_Math
+dir
+
+AP_GPS
+dir
+
+AP_Declination
+dir
+
+memcheck
+dir
+
+AP_RC_Channel
+dir
+
+AP_PeriodicProcess
+dir
+
+Scheduler
+dir
+
+APO
+dir
+
+AC_PID
+dir
+
+AP_Mount
+dir
+
+VarSpeedServo
+dir
+
+SimpleTimer
+dir
+
+AP_Relay
+dir
+
+AP_PID
+dir
+
+RC_Channel
+dir
+
+Time
+dir
+
+TimeAlarms
+dir
+
+AP_AnalogSource
+dir
+
+AP_OpticalFlow
+dir
+
+AP_Baro
+dir
+
+GPS_IMU
+dir
+
+AP_ADC
+dir
+
+AP_Var
+dir
+
+AP_Common
+dir
+
+AP_EEPROMB
+dir
+
+Desktop
+dir
+
+AP_IMU
+dir
+
+PID
+dir
+
+I2C
+dir
+
+AP_AHRS
+dir
+

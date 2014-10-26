@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support
+END
+sitl_compass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_compass.cpp
+END
+Arduino.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/Arduino.cpp
+END
+sitl_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_rc.h
+END
+DataFlash_APM1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/DataFlash_APM1.cpp
+END
+sitl_barometer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_barometer.cpp
+END
+sitl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl.cpp
+END
+digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/digital.c
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/util.cpp
+END
+desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/desktop.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/util.h
+END
+sitl_adc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_adc.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/main.cpp
+END
+sitl_gps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_gps.cpp
+END
+sitl_adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/sitl_adc.h
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/eeprom.c
+END
+SPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/SPI.cpp
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/Print.cpp
+END
+WString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/WString.cpp
+END
+FastSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rmax_object_avoidance/!svn/ver/2/trunk/Ardustation2_APM_ACM_2.0.20_Mavlink1.0/libraries/Desktop/support/FastSerial.cpp
+END
