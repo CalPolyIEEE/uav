@@ -1,0 +1,54 @@
+param set CAL_MAG2_ID 0
+param set CAL_GYRO2_ID 0
+param set CAL_ACC1_ZSCALE 1.0142
+param set CAL_ACC1_YSCALE 1.0146
+param set CAL_ACC1_XSCALE 1.0025
+param set CAL_ACC1_ZOFF 1.2595
+param set CAL_ACC1_YOFF 1.1883
+param set CAL_ACC1_XOFF 1.0297
+param set CAL_ACC1_ID 1114634
+param set CAL_MAG1_ZSCALE 1.0000
+param set CAL_MAG1_YSCALE 1.0000
+param set CAL_MAG1_XSCALE 1.0000
+param set CAL_MAG1_ZOFF -0.1271
+param set CAL_MAG1_YOFF -0.1349
+param set CAL_MAG1_XOFF 0.1739
+param set CAL_MAG1_ROT -1
+param set CAL_MAG1_ID 131594
+param set CAL_GYRO1_ZSCALE 1.0000
+param set CAL_GYRO1_YSCALE 1.0000
+param set CAL_GYRO1_XSCALE 1.0000
+param set CAL_GYRO1_ZOFF 0.0043
+param set CAL_GYRO1_YOFF -0.0040
+param set CAL_GYRO1_XOFF 0.0434
+param set CAL_GYRO1_ID 2228490
+param set CAL_ACC0_ZSCALE 0.9940
+param set CAL_ACC0_YSCALE 0.9946
+param set CAL_ACC0_XSCALE 1.0016
+param set CAL_ACC0_ZOFF 0.3031
+param set CAL_ACC0_YOFF 0.0052
+param set CAL_ACC0_XOFF -0.0274
+param set CAL_ACC0_ID 1246218
+param set CAL_MAG0_ZSCALE 0.9881
+param set CAL_MAG0_YSCALE 0.9671
+param set CAL_MAG0_XSCALE 0.9029
+param set CAL_MAG0_ZOFF 0.0584
+param set CAL_MAG0_YOFF 0.0647
+param set CAL_MAG0_XOFF 0.0936
+param set CAL_MAG0_ROT -1
+param set CAL_MAG0_ID 73225
+param set CAL_GYRO0_ZSCALE 1.0000
+param set CAL_GYRO0_YSCALE 1.0000
+param set CAL_GYRO0_XSCALE 1.0000
+param set CAL_GYRO0_ZOFF -0.0270
+param set CAL_GYRO0_YOFF 0.0210
+param set CAL_GYRO0_XOFF -0.0252
+param set CAL_GYRO0_ID 2163722
+param set CAL_BOARD_ID 909389874
+
+param set UAVCAN_ENABLE 0
+
+commander stop
+commander start
+
+mixer load /dev/pwm_output0 /etc/mixers/quad_x.main.mix
