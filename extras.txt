@@ -46,6 +46,22 @@ param set CAL_GYRO0_XOFF -0.0191747
 param set CAL_GYRO0_ID 2163722
 param set CAL_BOARD_ID 909389874
 
+param set MC_ROLL_P 0
+param set MC_ROLL_FF 0
+param set MC_ROLLRATE_P .02
+param set MC_ROLLRATE_I 0
+param set MC_ROLLRATE_D 0
+param set MC_PITCH_P 0
+param set MC_PITCH_FF 0
+param set MC_PITCHRATE_P .02
+param set MC_PITCHRATE_I 0
+param set MC_PITCHRATE_D 0
+param set MC_YAW_P 0
+param set MC_YAW_FF 0.5
+param set MC_YAWRATE_P 0
+param set MC_YAWRATE_I 0
+param set MC_YAWRATE_D 0
+
 param set UAVCAN_ENABLE 0
 
 commander stop
